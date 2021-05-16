@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Yuwei Zeng
 - 👀 I’m interested in network security and data mining.
-- 🌱 I’m now a Ph.D student of the University of Chinese Academy of Sciences.
-- 💞️ I’m now a research intern at Bytedance Inc.
+- 🌱 I’m a Ph.D student of UCAS, and I’m also a research intern at Bytedance now.
 - 📫 Plz contact me at zengyuwei@{iie.ac.cn, bytedance.com}.
 
 <!---
